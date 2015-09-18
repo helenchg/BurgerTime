@@ -1,0 +1,51 @@
+Loderunner Cycle 2 report and Cycle 3 plans:
+
+Team #   16       Members: Elena Chong, Tayler How, and Noah Miller
+
+
+CYCLE 2 REPORT:
+
+Which user stories did your team successfully implement and test?
+User launches game and see a frame with the first level with the hero and enemy.
+User presses "w" on the keyboard and see the level changes.
+User presses the arrows on the keyboard and the hero moves. 
+User sees the enemy following the hero and stop when the enemy is on the same position as the hero.
+User is able to move the hero on the platform and climbs ladders.
+
+
+Which stories were in your plans, but did not get done?  Describe the state of each.
+None
+
+What research experiments did your team do as you learn about technologies?
+Timer
+Graphics
+Binding characters to the platforms
+
+
+
+Briefly describe the main contributions of each team member during Cycle 2.
+Elena Chong worked on the enemy class.
+Taylor How came up with an algorithm and made the hero bind to the surfaces (platforms and ladders).
+Noah Miller fixed the level class and organized the BurgerTime project classes.
+
+CYCLE 3 PLANS:
+
+
+USER STORIES:
+
+List the user stories that you plan to implement in Cycle 3:
+User launches game and see all the elements of the first level.
+User moves hero and see how the enemies follows by walking on platforms and climbing ladders.
+User pressed "w" and see the three different levels nicely designed.
+
+
+
+
+RESEARCH:   
+What information/techniques does your team need to research, and who is assigned to investigate what?
+How to make the components of the burgers indent when the hero walks over it.
+How to make the burgers fall one level when it's completely indented.
+
+
+MISC:
+Describe any other aspects of your plans for cycle 3.

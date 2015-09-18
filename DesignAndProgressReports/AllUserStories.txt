@@ -1,0 +1,60 @@
+User stories:
+. User launches game and see a black frame with a white rectangle hero at the bottom of the frame.
+. User presses up, down, left, and right key and makes the hero moves. 
+. User presses the space bar and see small dots coming out of the white rectangle. 
+. User presses 1 and see a black frame with a label on the top that says "Level 1".
+. User presses 2 and see a black frame with a label on the top that says "Level 2".
+. User presses 3 and see a black frame with a label on the top that says "Level 3".
+. After a few minutes, an item randomly appears on the screen.
+
+
+
+. User launches game and sees a black frame with four buttons named "Skip level", "Start Game", "See scores", "Quit Game" centered.
+. User clicks on Quit Game and the frame closes.
+. User clicks on See Scores and see a new grey empty frame. 
+. User clicks on "Start Game" and see an empty black frame with a label that says "First Level".
+. User click on "Start Game" and see the first level environment with fixed ladders and platforms.
+. Design the second level environment with fixed ladders and platforms.
+. Design the third level environment with fixed ladders and platforms.
+. User clicks on "Skip Level" button and a prompt pops up and ask a number from 1 to 3.
+. User input a number from 1 to 3 and the frame is changed to level 1 environment for number 1; level 2 environment for number 2; level 3 environment for number 3.
+
+. Game starts with bad guys moving toward the hero.
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Hero details: 
+If the hero is on a platform, the user can move horizontally. 
+If the hero is on a ladder, the user can move vertically.
+If the hero walks over part of the surface of the burger, the burger indents. 
+If the hero walks over the entire surface of the burger, the burger falls one lower platform. 
+If the bad guys touch the hero, all characters will re-spawn. The hero loses one life. The burger components stay in the same place.
+
+Winning and Losing and level conditions:
+If the hero runs out of life, the game ends. 
+If the hero moves all burger pieces to the bottom, the next level begins. 
+If the hero completes the third level, the user wins the game.
+
+
+Overall game set: 
+Random lives spawn in the center.
+Hero can collect up to five lives. 
+Extra pepper spawns on map if hero gets 500 points.
+Bad guys re-spawn on all the corners randomly.
+Hero gets points 100 points for killing bad guy and 50 points per burger component collected. 
+
+Initial game condition:
+Hero starts with three lives. 
+Hero starts with scores 0.
+Hero starts with three peppers.
+
+Environment details:
+Message prompt for user name
+Frame with level one drawn initially.
+Scores, level number, lives, peppers will all be shown in the south part of the frame. 
+
+Graphics: 
+Hero
+Bad guys
+Ladder
+platform
+
+

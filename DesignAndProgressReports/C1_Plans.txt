@@ -1,0 +1,23 @@
+Loderunner Cycle 1 plans:
+
+Team # 16         Members: Elena Chong, Tayler How, and Noah Miller.
+
+USER STORIES:
+
+List the user stories that you plan to implement in cycle 1:
+1. User launches game and see a grey frame with a white circle hero at the center of the frame.
+2. User presses the space bar and see small dots coming out of the white rectangle. 
+3. User presses 1 and see a black frame with a label on the top that says "Level 1".
+4. User presses 2 and see a black frame with a label on the top that says "Level 2".
+5. User presses 3 and see a black frame with a label on the top that says "Level 3".
+
+
+RESEARCH:   
+What information/techniques does your team need to research, and who is assigned to investigate what?
+1. How to implement keyboard actions? Everyone
+
+
+
+MISC:
+Describe any other aspects of your plans for cycle 1.
+1. How to improve our UML?

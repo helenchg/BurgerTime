@@ -1,0 +1,52 @@
+Loderunner Cycle 1 report and Cycle 2 plans:
+
+Team #  16        Members: Elena Chong, Tayler How, Noah Miller
+
+
+CYCLE 1 REPORT:
+
+Which user stories did your team successfully implement and test?
+User run the game and see an empty frame.
+Display objects on the frame.
+
+
+Which stories were in your plans, but did not get done?  Describe the state of each.
+Move Hero
+Change level
+
+
+
+What research experiments did your team do as you learn about technologies?
+KeyListener
+Graphics
+
+
+Briefly describe the main contributions of each team member during Cycle 1.
+Taylor created the main frame with the level displaying scores and data, objects.
+Elena created some of the classes with its methods from the UML.
+Noah made the button in the frame removed and started the keylistener. 
+
+CYCLE 2 PLANS:
+
+
+USER STORIES:
+
+List the user stories that you plan to implement in Cycle 2:
+Make the hero moves using keylistener
+Create the enemies.
+Make it possible to change level using keylistener
+
+
+
+RESEARCH:   
+What information/techniques does your team need to research, and who is assigned to investigate what?
+Make animation, everybody
+
+
+
+
+
+
+MISC:
+Describe any other aspects of your plans for cycle 2.
+Implements all the things that were not possible in cycle1.

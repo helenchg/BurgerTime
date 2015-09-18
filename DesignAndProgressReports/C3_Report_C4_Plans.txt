@@ -1,0 +1,53 @@
+Loderunner Cycle 3 report and Cycle 4 plans:
+ 
+Team #  16     Members: Elena Chong, Tayler How, and Noah Miller
+
+
+CYCLE 3 REPORT:
+
+Which user stories did your team successfully implement and test?
+User launches game and see all the elements of the first level.
+User moves hero and see how the enemies follows by walking on platforms and climbing ladders.
+User pressed "w" and switches through the three different levels nicely designed.
+User press
+
+
+Which stories were in your plans, but did not get done?  Describe the state of each.
+User launches game and enemies follow the hero. 
+The enemies should not follow the hero "absolutely". If they are on a ladder, it should complete its movement, and then check for the position of the hero. 
+Right now, it is going on a ladder and if the hero goes up, the enemies will goes up too. 
+
+
+What research experiments did your team do as you learn about technologies?
+none
+
+
+Briefly describe the main contributions of each team member during Cycle 3.
+Elena did the AI for the enemy class and respawn method.
+Noah fixed all the classes, implemented the main menu and buttons of the game.
+Tayler worked on the PowerUp class.
+
+CYCLE 4 PLANS:
+
+
+USER STORIES:
+
+List the user stories that you plan to implement in Cycle 4:
+Add bonus items
+add main menu with features
+Replace the current color graphics with images
+Finish up with the enemies movement
+
+
+
+RESEARCH:   
+What information/techniques does your team need to research, and who is assigned to investigate what?
+
+
+
+
+
+
+
+MISC:
+Describe any other aspects of your plans for cycle 4.

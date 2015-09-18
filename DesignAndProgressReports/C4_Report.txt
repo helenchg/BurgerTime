@@ -1,0 +1,29 @@
+Loderunner Cycle 4 report:
+
+Team #  16        Members: Elena Chong, Tayler How, and Noah Miller
+
+
+CYCLE 4 REPORT:
+
+Which user stories did your team successfully implement and test?
+Add bonus items
+add main menu with features
+Replace the current color graphics with images
+Finish up with the enemies movement
+
+
+Which stories were in your plans, but did not get done?  Describe the state of each.
+
+
+
+
+What research experiments did your team do as you learn about technologies?
+How to play a music in Java - Elena
+How to pause a game - Tayler
+
+
+Briefly describe the main contributions of each team member during Cycle 4.
+Elena added music and some images to the game
+Tayler made the game pause and added the functionality of the pepper
+Noah implemented the high scores status and the main menu and winning/game over frame
+
